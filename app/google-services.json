@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "999678399237",
+    "firebase_url": "https://teamtesla-1ae1a.firebaseio.com",
+    "project_id": "teamtesla-1ae1a",
+    "storage_bucket": "teamtesla-1ae1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999678399237:android:107fe1b70e73f816",
+        "android_client_info": {
+          "package_name": "c.nyaringitab.teamtesla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999678399237-6kuubllj15ccjvjig0rjpcu2i8k35khm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.nyaringitab.teamtesla",
+            "certificate_hash": "d574f41475f3953cd4f2e831ea22a8e46e103c75"
+          }
+        },
+        {
+          "client_id": "999678399237-tdpttivle7cjilli3uofjg3m68tbc78c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2FtGQESddnXTT7lTxqe20PEiuVgdhwOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999678399237-tdpttivle7cjilli3uofjg3m68tbc78c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
